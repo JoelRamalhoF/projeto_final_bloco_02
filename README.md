@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-   <img src="https://i.imgur.com/w8tTOuT.png" title="source: imgur.com" /> 
+  <img src="https://ik.imagekit.io/5eywr3ioq/Farmacia/Capturar.JPG" alt="Captura do projeto" width="60%" />
 </div>
 
 <br /><br />
